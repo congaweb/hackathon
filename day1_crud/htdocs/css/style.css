@@ -1,0 +1,29 @@
+body.white{
+    background-color: #fff;
+    color: #000;
+}
+body.black{
+    background: #000;
+    color: #fff;
+}
+header{
+    border-bottom: 1px solid #ddd;
+    padding:20px;
+}
+nav{
+    width: 200px;
+    float: left;
+    border-right:1px solid #ddd;
+    height:600px;
+}
+nav ol{
+    list-style: none;
+    padding: 20px;
+}
+article{
+    float: left;
+    padding: 20px;
+}
+#control{
+    float: right;
+}
